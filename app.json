@@ -1,13 +1,12 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "copsdb",
+  "description": "Expose cops who kill",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
-    "ssg"
+    "copsdb",
+    "cops",
+    "1312"
   ],
-  "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
+  "repository": "https://github.com/olivier-w/copsdb",
   "success_url": "/",
   "buildpacks": [
     {

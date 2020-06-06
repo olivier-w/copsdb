@@ -25,9 +25,9 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful starter",
+    title: "copsdb",
   },
-  pathPrefix: "/gatsby-contentful-starter",
+  pathPrefix: "/copsdb",
   plugins: [
     "gatsby-transformer-remark",
     "gatsby-transformer-sharp",
